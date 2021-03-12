@@ -1,3 +1,3 @@
 # Formando-Profesionales
 Hackaton Microsoft 
-El proposito de este proyecto es apoyar a los alumnos a continuar estudiando, si necesitan asesoria para una materia, dentro del Microsoft Teams pueden tener herramientas de apoyo para verlos en cualquier momento y lugar.
+El propósito de este proyecto es darle apoyo al estudiante en sus estudios brindandole asesorias para diversas materias dependiendo de su carrera y de su facultad. Brindarle herramientas seguras de los estudios y que puedan verlos en cualquier mometo  y lugar poniendose al corriente con sus estudios e incluso brindandole apoyo .
